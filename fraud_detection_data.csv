@@ -1,0 +1,364 @@
+Transaction ID,Customer ID,Transaction Date,Transaction Amount,Merchant,Location,Transaction Type,Card Type,Is Fraudulent
+90023589-2ef8-43e7-807a-b4ab92fcc2a4,5d7358c2-ede9-488a-96e4-fa78a9d9d6db,2024-03-05 15:53:49,231.55,Torres-Sanchez,West Adam,Online Purchase,MasterCard,Yes
+3eb2e762-9525-4c33-a022-a47e3da3ec5d,0aac2ab4-f920-428a-939a-78ff9858c13d,2024-07-04 01:00:25,1485.69,"Brandt, Ross and Butler",New Benjaminbury,In-Store Purchase,Discover,Yes
+12d58e99-92d7-46f3-8ac0-e01ac86c15ec,4d6ee059-5df1-4323-8484-2f04aae3d6b3,2024-01-14 00:18:53,497.33,Delgado LLC,Lake Jamieberg,ATM Withdrawal,Amex,Yes
+e9cac917-d336-4629-9baa-f8c19691cb80,d7709d08-fa3c-419c-b2fb-bc9ef2997ef9,2023-12-09 03:06:54,287.68,"Smith, Mcdonald and Cruz",Lake James,In-Store Purchase,Visa,Yes
+acb39efa-d3c7-4bae-9b6c-9cda5ed79503,e505e3e6-7982-4c7f-b0b1-26a0b6d59d31,2024-02-17 03:22:55,213.97,Huff Ltd,Lake Anthony,In-Store Purchase,Discover,No
+96b01be7-12f1-4b3c-9838-dd1692714238,aadf4d53-53a5-40c3-a51f-36bfe7fdc5f1,2024-06-09 21:23:38,1483.93,"Williams, Johnson and Watson",West Connieport,ATM Withdrawal,Visa,Yes
+7b11ab2d-dc2a-442b-867c-552e5731f31d,bda79f46-44cb-41af-839c-993c098ed184,2024-05-04 20:18:24,1095.28,Dougherty-Cross,North Richardmouth,In-Store Purchase,Amex,No
+0b4e3edc-cf1d-4ea4-a992-0d42c01f4b57,989dd1ef-c5ef-44bc-ab85-db523ed0b2c3,2023-10-06 07:20:59,1185.08,"Sanders, Calderon and Walker",Josephville,In-Store Purchase,Visa,No
+3f6be2c8-580f-4dc8-b966-4f57756e032b,b88c01a7-477b-494f-987a-703310f4b68d,2024-06-13 05:27:29,73.25,Perez and Sons,Wagnerborough,Online Purchase,Discover,Yes
+b0c2b729-2496-4acc-8ac8-685bc01f8269,ac5e1567-70ef-40cb-b02d-3c8fc12dd10c,2024-06-11 22:43:09,196.45,Williams Inc,Orozcoview,ATM Withdrawal,MasterCard,No
+fc69f74b-48ff-4004-8c14-54358ce7f710,663f58f8-0a88-422e-9704-cac64e785d08,2024-02-23 17:07:46,473.0,"Chan, Martinez and Rodriguez",Wrightmouth,ATM Withdrawal,Visa,Yes
+9659a15d-681d-4330-8e59-d108c9aea219,863a0515-1773-4a1a-81d0-de500d6fbe01,2023-10-02 06:34:01,1208.02,"Tapia, Wright and Cohen",Ericville,In-Store Purchase,Discover,No
+a79347de-5ee8-4318-a938-5938ccf864b9,000c71f1-cb97-4c3b-ba1e-59123a8dfb41,2024-08-17 08:15:37,1126.88,Bishop-Moss,Port Emma,In-Store Purchase,Amex,Yes
+878ac607-6070-4537-919e-dd6366a35021,b93b4eb3-d749-4d12-a9fd-1c7fd8f7a1d8,2024-02-08 19:32:08,1434.88,Jones Ltd,South Brittanyshire,Online Purchase,Discover,No
+73aa2a63-9871-40d2-9509-255480eb0885,2ab57bf2-ddc9-44dc-a907-b8d86992b367,2024-03-14 01:35:46,1405.64,"Hood, Jackson and Lynch",Lake Christopherhaven,Online Purchase,Amex,Yes
+ba935a06-5a78-4367-9ef2-143f99c2c056,c8be05ae-5114-4a21-8aa6-4ff25d9872a5,2024-04-16 06:38:38,844.84,Christensen Ltd,Ellisview,ATM Withdrawal,Discover,Yes
+f744326e-2958-4fa7-a86e-092aa544d3fb,fc7b3e46-e53c-4ea9-aadc-9cd3bdbe6f52,2024-07-25 01:13:54,903.93,Davidson Group,Lake Theresa,In-Store Purchase,Discover,Yes
+4bdae710-ff3f-497c-881f-cae5b0ec6ab5,1ae24a52-b727-4c5b-a2ba-68ecac515e82,2024-07-04 19:16:23,563.6,Reynolds Inc,Rogersshire,Online Purchase,MasterCard,Yes
+d4ad95c4-4cdc-4486-b02c-09997cc52b7d,a3e366e1-d3ba-4590-b9d0-5c174adb9f34,2024-05-22 20:31:20,1739.91,"Vega, Doyle and Johnson",West Davidfort,In-Store Purchase,Visa,No
+575e6ffa-c3e8-48ab-863c-c27e58e07919,eede0cbd-3347-4567-9dff-6e32a0436820,2023-10-24 01:28:18,1520.03,Kirk-Medina,Gonzalesbury,ATM Withdrawal,MasterCard,No
+87d60fdf-8e16-4155-a68b-269839b01433,e4ad8f51-f3ba-4110-967e-1f14f052d621,2024-02-13 17:46:49,327.72,"Harris, Wood and Huynh",Sandraport,In-Store Purchase,Visa,No
+edaeea3e-2741-4655-9cd3-f2e99cb2ca80,559fe3f9-5fcc-4c83-b2d1-4c21f66abb23,2023-11-27 00:01:10,851.0,Huff-Bowman,Blackshire,Online Purchase,MasterCard,Yes
+2036d39a-a57b-47df-bdf7-399942981874,0e1d4818-2c1f-447b-9af4-5cb43b93874d,2024-02-07 05:41:56,562.96,Hernandez-Yoder,Huntville,In-Store Purchase,Amex,Yes
+2a4b82a5-8a21-4ea0-91c4-159ba808ab3e,607c6e2a-7c18-41af-9f99-35e5fd6ff405,2024-06-28 03:05:20,438.47,"Palmer, Barnes and Hall",South Ashley,Online Purchase,Discover,Yes
+087dc602-0a19-45c6-932e-4bef659787fb,f1e40e75-c3a9-4e06-aaea-6106d9efa9c4,2024-04-07 08:02:25,1529.35,Weber Ltd,Burkefurt,ATM Withdrawal,Discover,No
+334cdef3-c46f-4e6f-b6df-06079d3201c1,53e3bf53-9962-45e0-b77d-1a43f91d1179,2024-01-19 05:09:39,213.4,Calderon LLC,Longview,Online Purchase,Visa,No
+aa516708-2ac0-4fdb-938b-365e479785e6,fcf45b1f-c283-4cf4-9742-71cff31a9f95,2024-01-07 19:52:17,766.06,Mccann-Gonzalez,Valerieville,In-Store Purchase,Amex,Yes
+f2eeb120-7256-475c-aa5a-f796cf4e1c34,1f852842-8d0e-4539-8b97-5e75402d9772,2024-04-01 06:05:23,724.37,"Olson, Rivera and Harvey",Rogermouth,In-Store Purchase,MasterCard,No
+ae295bc7-ead4-4b00-afbd-3da1b056b2b0,99303aed-8057-42cc-b323-dedb926463d3,2023-11-14 16:01:36,694.47,"Hall, Phillips and Bailey",Port Saraville,ATM Withdrawal,Amex,No
+9d677630-eff0-4275-9269-aef28cb46016,14001e53-34fa-43c5-9bd7-a44cac48a1d7,2024-05-24 01:56:54,536.4,Ruiz-Smith,East Melindaside,ATM Withdrawal,Visa,Yes
+b98f436a-f6a8-41b3-91a1-7f1a0a232663,c590d02a-ee61-4069-b605-db9b7e24db45,2024-08-05 06:35:38,96.47,Carter-Riley,Jefferymouth,In-Store Purchase,Discover,Yes
+c8434cfd-c222-483e-b61b-7742ea2634e9,013ed398-4147-4ce3-aaf9-76e4a6ab481a,2024-05-30 19:35:54,924.26,Wise Ltd,North Christopher,ATM Withdrawal,MasterCard,Yes
+2e01b989-ff6f-4456-a76a-84dc96da43e0,59c4845d-21f0-42af-bd80-7413ddbc503c,2024-08-12 07:12:20,258.4,Stafford-Thompson,East Earlborough,Online Purchase,Discover,Yes
+6d4e5848-8e17-444c-b2a0-63c0890e9d52,15f47517-4ec9-45df-9250-85ad5de81757,2023-10-10 17:14:54,1845.37,"Murphy, Rodriguez and Cooper",Vargasview,In-Store Purchase,MasterCard,No
+063646d8-ec0e-465d-8db5-afef554359bd,179e361d-c91c-4516-a6e7-5bc54fd9f9b5,2024-04-21 06:33:24,166.81,Maxwell-Mitchell,South Amandamouth,ATM Withdrawal,Amex,No
+5e3646a0-a4fe-400d-8e76-39a48650b608,2fe7fdae-afbe-43dd-b039-a8d38bc74f10,2023-09-25 01:30:40,593.42,"Burton, Smith and Smith",New Dianebury,ATM Withdrawal,Visa,Yes
+2df9d6d1-772a-4542-9ec8-80aefcf823c0,7eaf43ba-3e47-4d55-ba71-17f39840f0e3,2024-06-20 23:32:30,1260.99,Davis-Porter,Lisaport,Online Purchase,Discover,Yes
+8f169b3e-c12b-4a11-a524-769c1412b99a,09863cd4-61f2-49e2-9ce2-6d85c6242856,2023-09-24 22:51:10,1772.05,Wilkinson-Smith,Toniland,ATM Withdrawal,Discover,No
+e426dd07-64f7-4e6b-8ba9-257f4f8fa40a,a183e205-0d73-4ae2-bad5-e8c73046e38b,2023-10-05 23:25:28,729.65,Cuevas LLC,Kennedyport,Online Purchase,MasterCard,Yes
+5c01d8f5-b4de-49db-a9f6-e4a14d450511,e6ba182d-c13f-4838-95fd-60aac8006803,2024-06-04 19:48:02,392.65,Williams Group,South Cliffordchester,ATM Withdrawal,Visa,No
+5fdda9db-78e2-4337-8596-261c8cc9d5a2,f1d5342a-67ae-4bbd-b7d9-7ffaf29f0adf,2023-09-04 12:38:57,148.41,Miller-Brown,Lake Christianfurt,In-Store Purchase,MasterCard,Yes
+7576c00a-6ca9-4fea-9e62-9e43bc719004,b14f2abd-dee0-422a-bb95-acdd0ddb85e2,2023-08-30 22:51:45,1325.91,"Hanson, Gentry and Jones",Lake Mary,In-Store Purchase,Amex,No
+8f5768cd-79fd-44a3-b6b9-6a12900bb102,71a74b03-0523-4f28-894e-6489e63b3456,2024-05-04 22:50:06,1548.41,"Howard, Harrell and Mills",Lake Joshuaside,Online Purchase,Discover,No
+dd93e1f1-342d-4ed8-a8a1-b9407a62eb3c,7bbf68ab-ea9e-4e72-97d3-efca5bc857c3,2023-10-08 00:31:53,1970.59,Jones Inc,South Kellyborough,ATM Withdrawal,Amex,Yes
+ed811448-f243-4d0d-b625-2ddfc167540b,992a4811-4cef-4a55-a893-e041ee4714e7,2024-01-02 17:49:22,1712.08,Jones-Frey,East Ralphton,Online Purchase,Visa,Yes
+ac88c655-fbee-4aac-84b9-896fe637d39b,06ce4994-ca15-48bf-8e3c-d6133e768772,2023-11-27 06:06:49,1734.3,Ray-Rowe,Leonardstad,Online Purchase,Visa,No
+74d2aed7-c323-4ce7-abb5-04291dd074a4,58930b72-c0ac-4aa5-90c3-8b5a3a8d500b,2023-11-02 10:16:41,766.45,"Newman, Chapman and Tucker",West Donald,Online Purchase,MasterCard,Yes
+def6aa74-01fb-4148-89f2-4a22630583f4,31368004-5617-4dc6-aac7-d6ad35a2ed3a,2024-03-07 02:26:53,912.29,Pierce Inc,East Kevin,ATM Withdrawal,Discover,Yes
+061bb8e0-575b-4cbe-8170-40489619c841,1c83e4db-0b69-41c9-9233-f885a776280b,2023-10-15 23:59:22,1669.88,"Walker, Nash and Blair",Port Stephanieport,ATM Withdrawal,MasterCard,Yes
+8e2bc150-42c8-4b9e-826f-ad3bf257223d,8a3f687f-e876-45f0-8093-42f27bd7707e,2023-11-12 19:54:21,333.68,"Madden, Shepard and Ruiz",Port Andrea,ATM Withdrawal,Amex,Yes
+061b5ccd-44b9-4b8d-9da0-c93d92372c8b,2bcc7165-043c-4b63-978d-d4fa69501951,2024-04-06 08:02:53,716.99,"Vazquez, Carter and Strickland",North Allisonville,Online Purchase,Amex,No
+05661a02-b825-489e-a8d2-26acd5e27748,c0acfacd-7353-4dd0-91d2-a1eea0a23446,2024-01-09 15:48:33,1343.65,Rodriguez-Garza,Johnhaven,Online Purchase,Discover,Yes
+b5791587-3688-4b90-b243-8fa4160f50c3,433c571d-3e9b-4719-9973-488cdb05d0f6,2023-12-21 05:58:06,1406.62,Reyes PLC,Lake Robertshire,Online Purchase,MasterCard,Yes
+c591ef2f-23dc-4556-bb26-38b823c4a3c1,644b6e46-8d2f-4ce2-a82c-9fc8f1249f6b,2024-02-15 09:00:33,1370.26,Gillespie-Perez,Williamsland,In-Store Purchase,Amex,Yes
+340cce32-e130-4563-8b92-6cedfbfe5807,019391f6-b7be-42f3-b325-e0f65e88d358,2024-06-10 13:18:36,152.09,Christian-Murphy,Smithchester,ATM Withdrawal,MasterCard,Yes
+95a6ac0a-a678-4bdc-a2e4-f56fc5f30749,f62e86e2-ecc5-43ea-be16-58046d4906d2,2024-06-14 14:02:52,1273.61,"Hull, Meza and Evans",Johnville,Online Purchase,Amex,No
+5631337b-4e87-47d4-a5ef-2c0bdec0a685,aebcf2bf-4599-41a7-afa2-16a5b4e2c607,2023-09-25 11:40:25,1072.94,Phelps-Flynn,Lake Larryfurt,In-Store Purchase,Amex,Yes
+6ffb7a33-6c73-45a7-a8cf-889577e298cb,829448bb-cf7a-4998-87e6-332d4ddcfcb0,2023-11-11 21:49:08,497.17,Mitchell-Hunter,Stephensberg,Online Purchase,Discover,No
+c118cb28-aae0-4777-aaf3-dfdfb4148bb6,9b9bc568-81b9-43fb-a043-272be37e29ff,2024-03-06 05:10:06,929.9,"Martin, Cannon and Ray",South Johnshire,Online Purchase,Amex,Yes
+a80dcd6a-c04b-4eaa-9a98-9bae02522afe,84a25205-60c2-414d-a4dc-497008e7591b,2023-10-31 00:51:23,547.2,Garcia Inc,Gregorymouth,Online Purchase,Visa,No
+22931ea6-0875-41f3-83cf-84e556e6988f,d1bd823e-3a3c-4d10-a56a-c12e5034d85c,2024-04-12 07:31:27,1851.53,Mason-Scott,Jameschester,ATM Withdrawal,Amex,No
+7ec2e5af-5df8-42ba-bd0d-d69bffbb3d9c,bd15423a-23da-4578-84a3-c967a6d028ae,2024-04-11 08:11:19,1379.44,Blackwell-Nolan,East Tonya,Online Purchase,Amex,Yes
+c145be7b-87b3-479d-a669-c946bd7c53b1,857b29a9-10c8-426d-a2fa-e75e1731e822,2024-05-24 18:27:23,447.03,"Sanchez, Brown and Navarro",Pamelaborough,In-Store Purchase,Amex,Yes
+b4de30d6-1554-4e8a-a593-f17dcfcb58ea,7622de07-b871-4a94-a1eb-02aa9d161658,2024-07-11 11:35:24,655.32,"Rivera, Manning and Brown",Lake Lisaborough,Online Purchase,Amex,No
+26579ff1-96bb-4546-9d17-677c0a1a2c42,7105a39a-5ce5-44c0-8bd9-cb6e7b07e88c,2024-06-28 00:31:14,1538.94,Brock-Mitchell,Jacksonfort,ATM Withdrawal,Visa,No
+da33f902-415b-4e57-ac64-d9fb68ee6347,0338a7a0-b282-4f87-aaac-e8eb757b2caf,2024-07-19 20:50:21,121.32,"Moyer, Collins and Lucas",Laurenhaven,Online Purchase,Discover,No
+6d39d0d1-838d-47a5-af50-a53b05a391d5,4d5e1663-8aac-4e63-8f11-484e17c19af8,2024-06-18 18:13:56,1645.39,"Fisher, Beasley and Smith",East Sarah,ATM Withdrawal,MasterCard,Yes
+023f99fd-acc5-4441-9c8b-caa4d4d19e1d,498ad808-2097-4769-874a-7d39c3540248,2024-07-01 09:23:29,1612.04,Johnson Group,New Andreastad,ATM Withdrawal,Discover,Yes
+5e110aa8-6bca-4e13-86bb-14ba68c97dcc,954dd113-3cc8-4896-bf3d-c31beadc2a61,2024-08-03 07:42:51,808.32,Yang-Levy,West Michael,In-Store Purchase,MasterCard,Yes
+771d546a-7897-4afe-9bb3-804b7bb795b0,2f2a82ba-cfdb-4bf5-803b-8f90e7e84642,2024-01-23 20:25:37,141.72,"Wheeler, Crawford and Leach",South Kristenville,In-Store Purchase,Visa,Yes
+73b80b00-7f37-4aaf-9911-9c685301e3dc,23242f06-443e-424f-a895-9514b1491f98,2024-01-31 13:47:53,1827.14,"Odonnell, Silva and West",Deanland,ATM Withdrawal,Visa,Yes
+3495e78a-ab88-4057-9bb3-fb528e27e14b,6aa10191-b022-4964-b12b-60c6a75350cb,2024-07-06 19:01:44,1138.69,Trujillo Ltd,Lucasside,ATM Withdrawal,Visa,Yes
+7ab72c2a-e304-45e8-95f5-04ef99e2d8eb,0c843637-6383-46a8-aa2c-d289f21bb42e,2024-02-14 02:54:10,1438.65,Warren Inc,Lake Linda,ATM Withdrawal,Amex,No
+015bf783-15dd-4ec4-9d49-1411185efe11,2f1333ab-da1e-48f8-ba0d-0b83a5d13b74,2024-07-22 06:02:06,433.13,Arnold-Jones,Parkerbury,Online Purchase,Amex,No
+ecae1a73-da07-482a-a39f-f47ba6be9705,b185285b-b4e4-474c-ab3c-54e0557c8b13,2024-04-18 02:50:29,1003.47,"Estrada, Buchanan and Bowers",Fosterport,In-Store Purchase,Visa,No
+c303c2e7-1c47-499c-bb74-0c126cec3818,cdae3724-9f51-47c9-84be-142d09cb45b5,2024-08-19 07:11:47,1770.52,Stanley Inc,Brianstad,ATM Withdrawal,Visa,No
+d7b1efaf-378b-457d-a3a7-0718a8635b57,29c1ddd4-6aa9-409e-ac4a-0acd5cd95866,2023-09-28 21:46:28,1289.28,"Shea, Hurley and Griffin",Langfurt,In-Store Purchase,Discover,Yes
+2efbb91a-4f13-4df5-94b4-22d8bd2e8f88,fdc9dd41-82d9-42c6-bfb9-e9eef1c4955a,2023-09-10 16:42:23,294.31,"Davis, Schwartz and Acosta",Higginsview,In-Store Purchase,Amex,No
+4d379a35-b790-456c-97af-ea438886e2d1,580c7a04-cfde-42eb-81e3-46526f25658b,2024-02-05 18:29:48,287.86,Odom-Gardner,Strongshire,Online Purchase,Amex,No
+80344cc3-4cc0-4120-aa4f-dddd6d29f840,2e497128-9119-45b6-9da1-450c6fee7ee7,2023-10-18 00:03:32,1492.53,Guzman-Fernandez,Thompsonbury,Online Purchase,Visa,Yes
+fea11c9a-f8fd-419e-b6c4-8bc8fc101c79,76e1fbe6-3cfd-470c-92dc-c669ba5cd2b8,2024-05-17 11:50:56,1082.56,Rodriguez-Williams,Garciaberg,Online Purchase,MasterCard,Yes
+156ce896-9d8f-431c-aba0-16f7840643f6,2039a2a9-2cf5-4eea-ab3e-348f01c3a683,2024-05-24 18:32:06,1496.56,Ferguson LLC,Oliverbury,In-Store Purchase,MasterCard,No
+7f86d9fb-bd7f-4b89-8d2a-831a48bdfef9,9bb9c99c-cf51-47b2-8590-6a02a0c9f6e9,2024-03-15 21:53:20,862.58,"Shaw, Brown and Miles",Lake Ryan,ATM Withdrawal,MasterCard,No
+46644f3f-0a2a-4d71-9e07-75bac7b96134,b24e4dff-6e33-4ece-ad4a-8f3c6c5e4138,2023-12-10 04:26:46,1171.23,Anderson Group,Welchshire,In-Store Purchase,Visa,Yes
+ddb30b65-f22e-4b21-bd76-1f26ceb54fdb,681aac75-9b03-4dec-9d77-7e65b1230d3c,2023-10-27 04:49:48,730.37,"Franklin, Baker and Jordan",Lake Trevor,Online Purchase,MasterCard,No
+41fa9a78-999b-44dc-b61d-5b573ee9429a,4b8f4654-88f2-42c0-8e41-42d81ea8aaac,2024-03-05 08:46:34,1994.68,Johnson-Shaw,West Scott,ATM Withdrawal,Visa,No
+37d5a0e4-20a0-4b80-aa09-2183cd6cf6a6,3af50a37-2782-4619-9cf2-8f9fd5648692,2024-04-29 19:58:57,285.28,Martinez-Larson,Jessicabury,In-Store Purchase,Discover,No
+a397e225-9475-4fec-b718-40dacda36f8f,d7263d28-18ff-4952-a6d7-28f881c5127f,2023-10-07 16:44:19,992.1,Harris-Huber,Dunnview,ATM Withdrawal,Visa,No
+c6d2940b-60b7-46fb-907d-b7acfd5431b6,2bcbb94f-0f8d-45bd-9d24-e6d0f67f97e9,2023-09-12 08:20:01,1514.01,Reyes-Gordon,Evanside,Online Purchase,Discover,Yes
+a3792c7f-bed9-4f3d-ab8f-c00cf903bb1a,740976bc-180d-4c65-bc06-95503be657a4,2023-12-03 13:03:56,1723.59,Robertson-Mendez,New Megan,In-Store Purchase,MasterCard,Yes
+5f5d60ed-7a55-47f9-951f-b90a5016d8ac,b2050917-2c09-4072-9cbd-8b4a180e9403,2023-12-01 21:31:49,314.15,Price Group,Lisaport,ATM Withdrawal,Discover,No
+3cde044b-f7c9-4745-b612-ba5f899cd453,dfa644c4-1459-4c51-808c-0d0d6e139cfc,2024-02-16 10:40:05,328.36,Harding-Barron,Smithchester,In-Store Purchase,Discover,No
+9d121add-11b4-4917-b127-2405383baa5e,be662251-09f5-4242-b243-0888bcf72040,2023-12-12 22:30:07,1364.16,Thomas-Lawson,Gonzalezside,In-Store Purchase,Amex,No
+29a87aa4-5658-48e6-b544-0e1786aa4b87,bf1e188f-7cff-4c63-956a-d17cc00371fc,2024-03-10 21:40:07,1196.85,Cole-Nelson,Ericksonview,In-Store Purchase,Visa,No
+a759478a-362e-4b3d-9cbc-c21ed4b0c6f4,086aabdd-a41c-4f78-b636-220a439dfdaf,2023-09-26 00:25:52,775.69,"Griffith, Trevino and Wilson",New Amberstad,ATM Withdrawal,Visa,Yes
+2b746e19-cc18-473c-b9ca-cdabc5df6749,9f1b780e-d93d-494d-98c7-c351c94fbc14,2024-05-21 17:28:50,1195.82,"Watts, Morales and Lucas",North Rachael,ATM Withdrawal,Discover,Yes
+6828ea8f-a366-46b6-a2a3-86770739e840,1bb06e1e-e644-4346-b9fa-dd85a6894e7d,2023-10-21 07:28:54,941.42,Silva PLC,East Crystal,ATM Withdrawal,Amex,No
+0075777a-4d00-4877-93d5-56e448b0d75d,dfa70fd8-44b1-411d-8e4f-d36694a4ad95,2024-02-20 22:04:29,510.31,Simpson-Garrett,Williamsville,In-Store Purchase,MasterCard,No
+2cdd1390-289e-48ef-8d24-203ef3bba916,1be93437-9982-4998-af97-5a7f5e57f5e3,2024-05-30 16:16:40,1110.92,May LLC,West Margaretmouth,Online Purchase,Discover,Yes
+68617932-ea10-4ac1-976c-65f8d95eb1ba,00c798f4-22dd-4ae2-9b3b-97587cb768ac,2024-07-16 13:23:09,1885.44,Romero LLC,Stacyland,Online Purchase,Visa,Yes
+af94931f-4aee-4003-bfec-be3309e3749e,d721cab5-ada2-45e6-b52a-ed80594f1607,2023-09-02 12:38:30,1363.76,Hampton Inc,Lewiston,Online Purchase,Visa,Yes
+1e31102b-3806-48d7-a45c-a8f591b9d853,2bac0883-9e6d-4e0b-9cd3-817baf3e465b,2023-12-09 06:21:42,237.96,"Brown, Johnson and Miller",South Jimburgh,In-Store Purchase,Discover,Yes
+edc850e0-a170-4c8f-9235-7a80a5fc7194,6256df65-e6a7-487e-bc1d-228996907137,2023-11-29 05:36:57,1770.73,"Jones, Williams and Maddox",Ericbury,Online Purchase,Amex,Yes
+a107cba9-6437-4b2c-b10b-9f2fe23bd502,5cb67c09-7022-4497-afa0-1a208266399c,2024-06-26 03:46:00,1504.25,Reynolds-Johnson,Andrewsstad,ATM Withdrawal,Amex,Yes
+c5fc5e69-c253-485a-8199-cf21deddaab6,8e19890a-1781-4abb-8726-795da206e327,2024-06-14 15:32:33,1539.51,"Ingram, Conrad and Porter",East Mariefort,ATM Withdrawal,Amex,Yes
+3cf4e3aa-bb9d-45ee-94ec-3b666200b595,6594893f-aa56-4668-96b5-40d864efa1c9,2024-01-05 09:20:15,686.95,Sanchez LLC,Silvaville,ATM Withdrawal,MasterCard,No
+5119b4d9-14a6-4111-83dc-c539af677707,63c641a1-acf1-4d6b-90bd-2fda4dee6558,2024-02-29 21:07:36,594.07,"Martin, Taylor and Hall",Nealshire,In-Store Purchase,Amex,No
+f9d209f6-113f-4fac-b74a-4cfc507a5bb1,89a3070e-4efd-451c-b524-871005887c4a,2024-06-14 19:36:39,324.73,"Ayers, Banks and Collins",South Steven,In-Store Purchase,Discover,No
+c3c9a732-cb7a-45ac-8bd8-530043f6f639,add8d223-0d08-49af-98e2-9ecb45a722d8,2024-03-22 19:37:46,16.46,Green and Sons,New Austin,In-Store Purchase,Visa,Yes
+66210734-883c-4244-b263-a69684826889,6d93efd7-6631-47fa-85ad-ba4b4403073c,2024-04-15 05:22:32,1446.96,Carr and Sons,Lynchport,In-Store Purchase,Visa,No
+0927c4a8-e3dd-4c51-a0b5-c32940340034,b7e9a433-a99c-4c70-8552-6085b3b4a4fa,2024-07-04 22:13:28,1442.16,Moyer-Rodriguez,Port Beckystad,ATM Withdrawal,Discover,No
+af02fba5-88b0-48fd-bb42-7ee0db111aad,c899e2ec-7732-4653-9ba9-1eb65e22b945,2024-06-20 05:11:47,1944.06,Green-Giles,Jenniferfurt,ATM Withdrawal,Visa,Yes
+afcbe3d9-fb35-4d4f-9c20-b0dffd3e55f5,92b5f07a-1856-47cf-b868-0597527cb02e,2023-10-07 12:33:30,1526.3,Pierce-Gross,South Elizabethstad,Online Purchase,MasterCard,Yes
+90e39e40-df28-46b7-a030-e89233b3b08d,677f1daf-93d0-4ec4-b4de-a55a247d565e,2024-04-23 13:59:53,1020.29,Newton-Olson,Bobbystad,ATM Withdrawal,MasterCard,No
+3d06dcb2-8f07-44c9-9ff5-3eeed2ad9b84,632c71b7-0d35-43e7-9f37-898c8dc87a73,2023-11-05 00:35:28,221.76,Greene-Patterson,Thomasmouth,In-Store Purchase,MasterCard,No
+69a59b35-f0b1-4400-b969-6b4de4978064,8398c09c-fd1f-4833-82e3-962a5bdc8516,2024-03-28 22:37:38,1254.35,"Gonzalez, Parker and Charles",Port Davidberg,In-Store Purchase,Amex,No
+a48ee257-6eb1-4cd5-bb3e-e42be630ec8c,b4874848-2386-41d5-b12d-d1452ae3ef84,2024-05-16 12:06:47,1684.92,Lee-Mcintosh,Hannahton,Online Purchase,Visa,No
+e9e1a728-664b-4e3b-ac93-8388701280e9,abebaefc-df1a-4228-903b-f78ad02a0c71,2023-10-06 16:36:57,1020.25,Garcia-Hicks,Port Adamtown,Online Purchase,MasterCard,No
+61e38928-c2da-45e6-b3db-ef0af1d5b641,b11c1859-76fa-4f78-b77b-d7e2afc93722,2023-10-10 00:14:22,405.83,"Taylor, Ward and Wood",East Douglas,Online Purchase,MasterCard,Yes
+2bb0cd93-6a30-40a2-a073-b3db9d19f95f,4dd0251d-4077-458c-a6d0-e904b7b287d0,2024-02-23 10:10:48,754.09,Clements PLC,Lake Jamie,ATM Withdrawal,Discover,No
+6562f290-6286-403c-91ef-b26833021814,4e75751d-d394-4665-b7b6-b5dc562bcbc9,2024-05-16 19:10:36,331.48,Martinez-Stevenson,Delgadoshire,Online Purchase,Amex,No
+b37b9025-aea2-444b-bf15-4dfe2270d270,f91ed052-22df-400f-b01b-7b561a6c0e01,2024-04-12 06:44:27,1907.46,"Wilson, Flores and Moore",Adamfort,In-Store Purchase,Visa,Yes
+031b2377-bc07-4857-886a-a90847fc3f43,e14f3a6d-2aa3-4ee0-9161-eb7c7a90d414,2023-11-21 04:27:31,1845.64,Garrett-Snyder,New Scott,In-Store Purchase,Discover,Yes
+12f0a516-8ef4-43a2-9060-0d8a4d1a93cf,eb5bf4a4-971e-416d-8f1c-39f5ac7cfd5b,2024-04-02 08:41:33,1837.8,Burch Group,East Andreamouth,ATM Withdrawal,Visa,Yes
+25e7ae1b-b7fc-42ab-a6f4-0e6cd47710a4,fc87afef-d5fa-4829-abab-cac44e9b3619,2024-06-30 13:48:33,1201.9,"Garcia, Lopez and Alvarez",Jeremyburgh,ATM Withdrawal,MasterCard,Yes
+99d1bd6c-1323-4819-9c48-fa29b394be32,0ff398ce-470e-40b1-b77a-aecc012158b4,2023-08-24 20:02:00,982.33,Vincent PLC,Payneside,Online Purchase,Amex,Yes
+7bbb508c-4ff9-4799-a429-e2f46fbfdb34,6bc2d40c-7a09-4055-a1e7-3c87b581f5e9,2023-11-06 15:09:29,232.62,"Sanders, James and Nolan",Connieberg,ATM Withdrawal,MasterCard,Yes
+ce01ce69-93f3-429a-9b76-675525d97d50,2eaf2b10-9c24-4217-a478-0e8625bca2e1,2023-12-06 22:20:27,732.33,Larson and Sons,Holdenport,ATM Withdrawal,Discover,Yes
+4f5a2aac-8e55-4165-88bf-9424c8fa4a4e,64c05940-0bed-466e-90de-d51d16096e69,2024-03-09 07:02:31,1970.79,Parker LLC,Martinezbury,Online Purchase,Discover,No
+21d0fea0-f511-4703-89fb-2f0c360b28c2,f5fa7f61-47ad-404f-938e-0200b4946af8,2024-01-15 12:27:05,1615.48,Brewer-Dunlap,Kimberlyside,In-Store Purchase,Amex,No
+b5599f11-9c52-4eaf-951f-6258090aa016,c1258b46-47bf-4096-b1d1-e55bf233a9cd,2024-08-01 15:11:30,486.51,"Foster, Phillips and Daniel",North Katieville,Online Purchase,Visa,No
+9d00b342-cde5-43a2-8380-d1c69b8f1e01,f12ead31-4239-43b7-8c5c-92ea93edf52e,2024-01-22 02:37:29,489.33,Tyler LLC,Brianton,Online Purchase,MasterCard,No
+cdd80712-5004-44d0-bb2d-5b3bac9fda24,5867943d-7e54-42aa-bdad-f0524bfa81bb,2024-07-25 09:50:31,1139.04,Matthews LLC,Kathrynport,Online Purchase,Visa,Yes
+db8a726c-69e9-40fe-9735-602be82bec66,0acc1e08-74f6-4ee7-8509-84b596186ea5,2024-04-23 19:06:28,166.73,"Jordan, Larsen and Cook",South Jeremyburgh,ATM Withdrawal,Discover,No
+1cec8fed-8845-4c73-b47f-8beca4cb166c,22b76c53-99c6-4b25-903f-5ee1674c00e3,2024-06-28 23:39:55,1466.5,Pena and Sons,Oliviastad,In-Store Purchase,MasterCard,No
+8976714c-40ba-466b-b9a7-ddd77d5e9767,ec468849-30dd-4c85-bdcb-e78e36d8e98b,2024-04-18 16:35:05,1633.89,Carlson Group,Pattersonmouth,Online Purchase,Visa,No
+e99197b5-77a2-4134-bc4b-f08769cd5773,d8f5f7a4-8e92-4153-abe0-7c0a2a9a07af,2024-04-23 01:19:59,1956.19,Evans Inc,Terrystad,Online Purchase,Amex,Yes
+dbfdf3eb-128c-4663-a8bb-4334e200a1bd,41842f20-1aa9-48bf-9771-cfd66dcaefb1,2023-10-22 07:18:51,1070.09,Walsh-Montoya,East Davidmouth,ATM Withdrawal,Discover,Yes
+02a2680c-2f18-49b7-b7e5-da4777839ba8,d69a7c4b-8f2a-4754-8b12-26338df42f56,2024-04-08 19:43:35,260.26,"Lopez, Glenn and Smith",Lake Lauren,ATM Withdrawal,Visa,Yes
+826b0592-4612-4335-b78b-c18722c5e386,dd61ccb0-0508-4705-9bb1-fe6adf667e6e,2023-09-06 13:05:39,1322.9,Hill LLC,South Edward,ATM Withdrawal,Amex,Yes
+444ac802-a4eb-4353-b892-dd48ad5cc111,15575765-b62f-4061-9fe9-17d4fb296b01,2024-06-23 16:44:43,1894.23,Miller PLC,West Sheri,Online Purchase,MasterCard,Yes
+314342ba-f49d-4f97-a5bc-21628c3965ca,72c65887-db9b-49b1-bafe-5d8f39fb5fe1,2024-07-28 14:54:32,338.6,Garcia-Rojas,Philipmouth,ATM Withdrawal,Discover,Yes
+a86f1153-0e6a-4546-86ef-c5d925294dad,fb23fe19-43e8-4ddb-be8c-51c902d633e8,2024-03-07 04:07:16,1060.07,Golden-Larsen,Port Anthonyhaven,Online Purchase,MasterCard,No
+f4f31664-badc-405c-a0fb-770e5df24745,f2debecc-5f14-4ceb-9b6e-9fa076c9cccd,2024-02-14 05:35:27,1217.12,Doyle and Sons,Port Nicole,Online Purchase,Discover,No
+9179dfe9-01c0-4001-ad68-caf5ccff7c14,6a4f45c6-6592-4a29-84a4-11f55ffbc057,2023-10-26 00:08:57,1929.08,"Wright, Young and Ayers",Davismouth,Online Purchase,Amex,Yes
+0f8bb085-dc23-4645-aa0b-6b6b1a38f3da,17ceef34-0383-4fa7-988a-9dce68496967,2023-09-04 15:35:01,1858.54,Brown LLC,Keithmouth,In-Store Purchase,Visa,No
+43c6c4bb-37cc-4f91-8532-1b2e7ecaa57b,bc3df3f3-5530-4b2a-b341-e709a04de045,2024-01-31 07:37:47,1512.98,"Richards, Simpson and Smith",Jonathanburgh,Online Purchase,Amex,No
+da92b3ee-15b2-40ff-a92e-2d6c68fe5b15,1d28a246-cb34-4cb2-91e4-dc53aa204275,2024-06-13 19:36:24,1382.84,"Erickson, Phelps and Bell",Lake Nicole,ATM Withdrawal,MasterCard,No
+3df271fc-c3e0-4266-baa1-eb5ac094accf,6f4e7161-13f9-4299-84f8-0c5b2049ff5a,2024-01-06 02:28:05,1428.77,"Miller, Williams and Neal",Knoxborough,ATM Withdrawal,Amex,Yes
+f305da99-83b2-49f5-a205-30c85e5c93a0,c69852cb-59f8-48de-9be0-e498f3290cb9,2024-05-24 04:56:33,803.99,Ochoa-Acosta,Comptonhaven,Online Purchase,Visa,Yes
+a10e7c9a-3973-4c44-852d-6456fe32f192,f66de564-e357-4265-b1a1-17b29e5bad28,2024-08-16 15:33:02,1346.66,"Walker, Peterson and Ballard",North Cheryl,ATM Withdrawal,MasterCard,Yes
+81e41519-9187-4815-8e3d-38b02cc30b2b,9906d05b-a2f8-4af7-b3c4-d94d893303d1,2024-07-13 13:35:43,753.11,Howard Group,Lake Joseph,Online Purchase,Amex,No
+d6d22b9f-67d1-43b6-a665-0728c76ff7fc,e37b5386-4745-46ef-8968-34efc2069a84,2024-07-13 06:32:11,1800.23,"Reyes, Mays and Barnes",New Cody,In-Store Purchase,MasterCard,Yes
+2a76070e-3535-432e-94c0-c0ed2dd56c1a,c0774a77-7915-4687-8de0-9182c339f058,2023-09-18 23:53:39,908.46,Arnold-Friedman,Ronaldburgh,Online Purchase,Discover,Yes
+b4439b56-890d-4f39-8562-5022ac47b7ad,1dd8a057-74e1-4704-b42e-334b4bfe148d,2024-01-23 17:27:37,503.33,Ford Inc,West Michaelport,Online Purchase,Visa,Yes
+9c44f731-5cf2-4e6b-a188-a2b1179e5d80,36408d07-f8b1-4fdf-9ca3-683c20b3fa75,2023-09-17 22:33:52,137.41,Blake Group,Sandersfort,Online Purchase,Amex,No
+91001b35-d3c0-4f5e-87dd-3497e94be822,bc033401-2606-4642-be35-f020845bb720,2024-05-04 07:12:54,51.86,Berg Group,Troyshire,Online Purchase,Discover,No
+687d7d50-740e-401e-85b5-c6a1728d2b99,ce325594-df20-497a-8860-9a772669d31c,2024-01-15 08:16:16,1112.3,Gomez Inc,Lake Donna,In-Store Purchase,MasterCard,No
+cb104174-0078-4baf-9e13-a4b8fe74c7aa,4c060634-1a74-48bd-adc8-cd0d9482ad3d,2024-07-06 04:05:19,1181.0,Forbes-Collins,Patriciaside,In-Store Purchase,Visa,No
+4c8d1274-bf84-4481-bdd5-069deb021b18,9215c4c2-b06e-4fc8-abff-3861675f0900,2023-08-30 18:36:52,24.31,Barton-Williams,New Deborahview,Online Purchase,Discover,Yes
+09cc0520-b914-478f-9eac-daacfc182c62,1c8b3303-50f8-4ec0-abb9-2bf763c39d7e,2023-10-18 01:07:27,1418.6,Porter-Evans,Karaside,ATM Withdrawal,MasterCard,Yes
+0f8c49de-ccfe-43cc-8cb6-e96ac92c11c9,0bf18a3d-ead7-4acb-be1b-72480e1790ed,2024-02-09 03:14:13,127.16,Patterson-Harper,Port Taraburgh,In-Store Purchase,Visa,No
+836140e7-307c-423c-9f9f-d0777479f012,5b6e96ca-8929-468e-af19-f77c56a29db9,2024-05-23 02:15:09,144.13,Wallace and Sons,Montgomeryton,ATM Withdrawal,Visa,No
+364b5105-f3f2-46ed-935a-0e9fd3d4a328,42ee18cb-3117-4bb8-9570-dd61c423a6e4,2023-11-10 12:18:40,72.51,Perez-Turner,South Becky,Online Purchase,Amex,No
+65103f37-4f99-466d-bc45-449e5bbfcb8f,2cc76caa-efde-4853-a6ce-e718d490a52b,2023-10-03 10:40:16,667.55,Mccoy Inc,Frazierview,ATM Withdrawal,Discover,Yes
+8651aa69-9181-4f25-af99-b520f48659e3,48c7d38f-ab71-40b1-956e-4087a75afd2e,2023-10-09 12:52:10,1033.17,Chase Ltd,Cynthiastad,ATM Withdrawal,Visa,Yes
+ed0f7fc3-abac-4176-bebf-42394f7dee49,86ed2381-1fde-4b76-90e3-8641764480f2,2023-09-04 14:21:27,564.17,"Mora, Fritz and Knapp",West Cindyhaven,In-Store Purchase,Discover,Yes
+37839ec3-b7dc-4cfa-bb8c-3b1e38dc19fc,deb3ce59-6910-4500-bd49-3a6fa2891761,2023-12-31 17:45:16,975.97,Goodwin Group,South Gary,In-Store Purchase,Visa,No
+14425e67-9a8a-4813-abbc-6aef7d8b2369,6919f90c-1364-4523-8b0e-b3b3a9137c92,2023-10-01 02:31:07,1083.08,Jones Ltd,East Joseph,Online Purchase,Discover,Yes
+39212bb6-8c9f-41be-87c0-396e7cc3782c,fd465451-8995-4b8c-8877-daee8f015604,2024-06-11 06:02:12,1449.47,"Medina, Everett and Scott",Lake Patriciaberg,ATM Withdrawal,Discover,Yes
+ee223b7d-3496-4c59-9661-d60204f14c29,05743a7d-b8f7-426b-8475-a37a38d14b55,2024-02-24 16:52:59,1765.94,Smith-Carlson,Kristinestad,In-Store Purchase,Visa,Yes
+55e82ca7-1638-41e5-abb0-961148f38767,e91971b0-3edb-4d4a-9323-37196da2f744,2024-08-12 23:27:38,1156.66,"Jones, Brown and Copeland",East Stacy,Online Purchase,MasterCard,No
+e82fedcc-b368-4799-b6ae-c676f0c22cff,04a63b5e-bebe-4e30-884f-0a5dfa3b1f67,2024-04-20 18:58:35,493.56,Serrano-Woods,New John,ATM Withdrawal,MasterCard,Yes
+a6e6eb3b-f7aa-45ed-84ea-11da59fb086b,ac0a6071-dd8b-49b7-ab66-6aed10a8e185,2024-02-18 04:39:02,951.22,Harrington-Wall,South Amanda,In-Store Purchase,Discover,Yes
+cc3833a3-57fe-4118-85a6-ac117b662575,c5eb54fb-8203-4283-8932-8a9d2293e2d1,2023-11-03 16:27:16,820.05,Payne-Lewis,Lewisville,Online Purchase,Visa,No
+0d9ee591-3b50-4e9b-969f-fdd6b1d1fa30,38ab2905-c424-4b5b-af01-7d148290f237,2023-11-17 15:08:20,197.71,"Harvey, Shaw and Cook",New Courtney,In-Store Purchase,MasterCard,Yes
+97d82ef4-f399-440c-9c00-0d0f8d6fbec8,540d5115-bfe2-4e2c-9b6d-3835600df536,2024-05-14 15:53:38,1321.38,"Barker, Bauer and Flores",East Patrick,ATM Withdrawal,Visa,No
+9a4acc97-9687-46ca-9005-9a1ebe8ccb57,cfb062ab-54e8-483c-986c-1523a474f96f,2023-09-21 22:27:16,715.05,Jones-Case,Jonesland,In-Store Purchase,Amex,No
+b0d50f17-3d20-4ef1-afad-a308e05fd85e,69d860e9-65f8-422d-a7c0-b6bfaef4bce0,2024-04-01 19:56:19,828.09,Green and Sons,New Nicholasmouth,ATM Withdrawal,Visa,Yes
+ee0651c7-3b56-41f6-8d82-5f6b28f0d15b,654c4d08-9874-4279-be1a-a193ec6a88b6,2024-04-09 23:39:51,1729.04,Lopez LLC,Maryfurt,ATM Withdrawal,MasterCard,Yes
+474f266c-56eb-435e-a1f8-ebc1f5fb9737,e7c51318-f33f-4ff2-acd1-19e83059b3b3,2024-02-14 07:13:48,117.8,Shelton-Mcdonald,West Robert,Online Purchase,Discover,Yes
+a9308713-01ee-4340-b75c-c8390bba11ae,e6c7916d-bbbc-4334-b4d7-adbe34280bea,2024-03-17 17:30:42,1310.38,"White, Hester and Martinez",Smithburgh,Online Purchase,MasterCard,Yes
+2cf385d4-8441-4c8f-b11b-4ae2baa79285,c13c8273-444e-45f9-8547-0e40531eb01a,2024-01-29 07:19:13,1295.9,Hansen Group,Port Dana,Online Purchase,Discover,No
+b9711c68-e30a-44ad-8948-1b91fabee3d1,be412272-e0f5-4c99-a852-537e0e829516,2023-09-16 12:24:56,130.62,"Hernandez, Coleman and Finley",New Nicholas,In-Store Purchase,Discover,No
+407bf07a-7283-4d66-ad1b-95f30ce1d817,8f261c00-4982-4182-b62c-c0f01f9a28fe,2024-03-21 17:02:41,1459.15,"Randolph, Castillo and White",New Juanmouth,ATM Withdrawal,Amex,No
+e4f296c9-ad69-42d4-9b8f-a89715a16e57,bd10eeb6-439e-49fe-856e-76734926e336,2023-12-09 18:28:00,1603.18,"Eaton, Parker and Petty",Lake Xavierstad,Online Purchase,MasterCard,Yes
+48047a2c-0295-40b5-8073-b017e2ea29b8,315d9087-264b-4aaa-9f9b-f7fad0f0fd52,2024-08-12 15:06:54,227.45,Blevins Inc,South Alexandrafurt,In-Store Purchase,MasterCard,No
+2aa0c1a8-05c3-4501-a8b4-2a4d65b1da11,f6e07e4d-ae67-4cbd-8965-acb008f359be,2023-11-14 09:49:02,391.26,Taylor and Sons,East Charles,ATM Withdrawal,Discover,Yes
+82a6ea62-bfaf-47e4-9ff1-eba1e7dedfd2,b4179716-b372-48f9-9ba7-6c79a1dac8f2,2024-03-24 15:29:58,1077.21,Wagner and Sons,New Stephen,ATM Withdrawal,Amex,No
+58317f56-5fb3-46c5-a9a7-a11c0cf8d433,cc096889-e852-4dcc-8601-eec96fb1e009,2023-11-28 07:33:23,288.96,Huber-Hart,Evansmouth,In-Store Purchase,Discover,Yes
+46f6002d-5d83-404d-849e-6dc56bb5a1ca,d01dc387-8b68-4e55-95cb-ec090c70ef9c,2024-03-08 14:24:01,375.14,"Sanchez, Christian and Dunn",Mayborough,Online Purchase,MasterCard,No
+b1c242f6-79e1-4231-b4e4-2b42b44547f7,1e334141-34a9-473f-ac50-a390152e988b,2024-01-15 03:58:49,930.63,Taylor Ltd,Julieberg,ATM Withdrawal,MasterCard,No
+bf13190b-edd1-4f72-bbad-e4ea1b711ea5,ce78b2f1-0197-4975-aa4f-6a43cc37f3cf,2024-07-19 13:44:52,1750.23,Taylor LLC,Port Jasonmouth,ATM Withdrawal,Discover,No
+77470758-4743-49f5-99c9-a3431a796ee8,b0b01eeb-f806-48cb-8586-96d91f264125,2023-09-02 20:36:14,160.02,"Mcdowell, Ramos and Maldonado",South Robin,In-Store Purchase,Discover,Yes
+34b6c50c-751f-4bd4-a38d-d141bb42b940,bab62f47-0ee6-408a-9440-8f13b1f0dc86,2024-06-22 19:38:22,1617.96,Williams Group,Bonniehaven,In-Store Purchase,Discover,Yes
+bead1bd4-ff22-489f-abd6-ebf2240e519a,22a5c622-9b27-4f25-bb7a-bbbb8a4e3487,2023-10-27 00:38:16,1713.37,"Taylor, Garza and Ward",Watsonborough,ATM Withdrawal,Visa,Yes
+4f42621a-72ae-4fb5-ac1f-4bb8634b4e02,3959bdd7-c04b-4f5c-ad2a-61a695d3b8bd,2023-09-09 08:43:07,204.84,Robinson Ltd,Oliverfort,Online Purchase,Visa,Yes
+a49ce563-6881-4d12-ae00-16c05f65dc98,f6589ee5-8509-4985-b323-c76b0e0feeb1,2024-03-02 07:12:01,1307.77,Davidson-Evans,Garciamouth,ATM Withdrawal,MasterCard,No
+60994f13-5176-4b3b-bdc3-80e7815a2bcc,8d3e5cca-36c5-4ab2-a237-d5a3a2b55c70,2023-12-30 05:23:21,1085.77,"Dominguez, Brown and Flores",North Ryanview,Online Purchase,MasterCard,Yes
+c00a13db-4633-44ce-af38-303b559758b3,7525060d-d765-4f2a-a122-3a43d79a9b13,2023-11-28 14:07:28,39.37,Lane PLC,West Bryan,Online Purchase,Visa,No
+df845d08-d2ae-452e-98c7-e01d56a4f732,cf03b9de-aa8d-4b35-9ab0-28b5fe8452a8,2024-04-10 23:49:58,195.59,Campbell Group,South David,In-Store Purchase,Visa,Yes
+24fcb183-b052-4cd8-bbf2-516664063cce,322df8aa-5774-4212-b769-32439720cf93,2024-03-14 00:27:40,1509.6,Zimmerman PLC,Amandastad,In-Store Purchase,Discover,No
+297f104c-2bb5-4df2-a359-d64c2be2fd73,6c68b7e5-6cd7-4f90-ac96-b0a544010dd9,2023-08-29 04:37:40,480.4,Baker-Knight,Staceymouth,In-Store Purchase,Amex,No
+7a362dcd-c73f-4b21-bd43-0d6021143b88,126e190d-ad14-41dd-a6d9-53312f9d0b30,2024-07-02 13:41:07,818.76,"Manning, Greene and Clark",South Mariaport,ATM Withdrawal,MasterCard,No
+8692cf53-80e3-4508-84b5-400a331cd3a3,805060d9-b6b5-459c-b8fc-8d092057367b,2024-03-28 15:03:40,967.9,Fleming-Mccarthy,Jenniferbury,In-Store Purchase,Discover,No
+6913ceb9-85bc-4f4b-9aa7-28a1a59b970d,73984c57-24f7-4af7-9651-05453cc373f7,2023-11-12 17:31:54,1730.65,Robbins PLC,East Cathyborough,ATM Withdrawal,Discover,Yes
+aec01dff-08ca-4a0f-8a3b-434f1dfa755d,bc5e6757-138e-4a8c-ae7a-4441769dbe42,2024-05-15 12:06:39,1805.86,"Mason, Gross and Trujillo",West Christineberg,ATM Withdrawal,Amex,Yes
+9a5cdc2c-e0f4-40c0-b20c-4810e165ba41,c74b1bdd-5e70-4390-98c8-c849b89c2bb0,2023-10-26 05:04:22,337.63,Mcgee Ltd,Hallton,In-Store Purchase,Amex,Yes
+2eabd415-9976-4b11-9297-4f483f2e6527,d1f48769-2b63-4ee2-9ded-59e45244b70c,2024-03-14 22:13:19,14.29,"Delacruz, Martin and Williams",Rayburgh,Online Purchase,Discover,No
+868649b2-6a70-4b52-8425-3ddb4af5fe3d,1dae4c49-895c-42ec-8cef-56d802361419,2023-09-05 22:21:18,786.94,Jimenez LLC,Rodriguezside,Online Purchase,MasterCard,Yes
+142b2fec-b9c3-4b72-bbe6-ffcdcd8bf1fb,26f73446-8efd-40d5-bdda-3073af157ae0,2023-10-02 05:51:31,1853.77,Anderson-Meadows,East Christina,In-Store Purchase,Amex,No
+4ac36f0d-146a-4f2d-b4ee-1ca930c08b68,acb21463-057d-438a-97d5-a764a6956465,2024-04-17 00:18:13,1572.41,"Chavez, Dean and West",West Amyborough,ATM Withdrawal,Amex,Yes
+2246f4b8-2331-4657-8693-7ac0326c8db9,d0ee842e-69b7-473b-9c4d-f6c0c7e91908,2023-11-23 00:04:06,577.65,Brown Inc,Allenview,Online Purchase,Amex,No
+f5cb55d1-efdb-406c-ad3f-db7cb46bc8a9,dac979ed-1c89-48e5-8a68-89fad673fe5b,2024-04-19 02:22:54,1396.22,"Larson, Rodriguez and Owens",Kristafurt,Online Purchase,Discover,Yes
+e997cfe7-001d-4636-9325-e6f33c2c6ab6,702b7106-92a9-47bc-b7c1-27c8f8088079,2024-01-01 01:10:26,1463.71,"Costa, Walker and Wiggins",Elliottberg,ATM Withdrawal,Amex,Yes
+b09e06e4-d1a1-4965-9c74-92b9a3ea580b,d56377e7-8d49-43f8-a835-389a38e7f9a5,2024-01-28 06:07:09,1568.89,Allen Ltd,New Melissa,ATM Withdrawal,Discover,Yes
+cd01bd9d-df04-4d17-8fd7-a8e25f402cfa,39701a96-8760-4bbe-9335-5b11d0f54799,2024-03-22 13:23:32,1327.12,"Smith, Moreno and Schultz",Lisamouth,ATM Withdrawal,Discover,Yes
+7e6eeea7-44dd-4be2-a3c9-eadaa3245d22,e7cc25ec-3346-438f-9371-d42cbd0bebbc,2024-05-22 17:32:27,978.48,Clark-Hutchinson,Port David,ATM Withdrawal,MasterCard,Yes
+3f0a1342-bc44-4ab9-a91c-7085428f3f8a,ca2b121c-42a3-41d2-a3de-1e662073af6b,2023-10-01 11:24:18,387.9,Jackson Ltd,Alexanderfurt,In-Store Purchase,Visa,Yes
+c16a81e5-f3a4-4a66-8f81-65ec3bf83922,159e8da4-c5a6-417f-8a11-6c0444cd89a8,2024-02-10 04:24:18,443.22,"Cole, Craig and Gregory",New Edwin,ATM Withdrawal,Discover,No
+4a57ae4b-c25e-4b7b-8798-06ca33ca4fae,b416acfb-71bd-4a7b-87de-36fff8059bb9,2024-07-28 03:35:32,126.38,Case Inc,East James,Online Purchase,Amex,Yes
+e5da98aa-2cc2-4b04-8e11-8406113f1631,9e987cda-8c3a-4ea2-bcc9-e98caca0a4a3,2024-06-15 22:51:07,1474.12,"Lawrence, Hutchinson and Wright",Theresastad,ATM Withdrawal,MasterCard,No
+e1b0ad67-ea05-443a-af3e-c2a9d472cd6d,e55c6d73-677a-42b3-bb35-bac41c84bfb8,2024-04-21 00:44:17,131.31,"Burton, Salas and Brooks",West Jasminetown,ATM Withdrawal,Visa,Yes
+7fddc643-3a69-4f6a-9bf0-bed9f139ee9b,d89a340e-c445-4bd7-8a91-d5ca27bc8523,2023-09-18 06:53:20,634.07,Brown PLC,Lynnbury,ATM Withdrawal,MasterCard,Yes
+afefa71e-021f-417b-b826-607d3454ef62,185ed654-efb2-4d70-9165-a9cf80d8ce61,2023-11-24 17:19:51,109.78,"Nguyen, Guerrero and Pitts",Rosarioburgh,In-Store Purchase,Visa,No
+e876e38f-b060-4fb0-aa1d-6a9b92a4a63a,f6dda116-afbd-4554-95cc-150191cc2f4c,2023-11-13 10:59:58,958.81,Arnold LLC,Port Nicolefort,Online Purchase,Visa,No
+f0bd7592-011b-4286-88fc-4a97f1fc25be,7d20562f-58b5-4f0a-8e0a-23cbf60b56a9,2023-09-22 19:13:51,1839.58,Black-Rodriguez,North Pamelatown,Online Purchase,Discover,Yes
+19d4e8a7-c1ac-4940-94f2-6913b9774e98,04350175-923a-4e72-9f77-703dde4302b1,2024-06-11 17:22:16,1066.94,"Stevens, Mendoza and Curtis",East Tina,Online Purchase,Discover,No
+f4165049-b35a-4d88-8aa0-e017203e68bb,004c7db3-c21e-447a-a91f-5ad6ced881af,2024-07-13 04:00:20,123.19,Smith-Price,Raymondland,Online Purchase,Visa,Yes
+957e4c9f-a488-4506-85d8-5b2ca6522328,273db246-d7f4-4a7d-966e-e6fb1c41c5de,2024-01-29 01:30:43,1020.58,Thompson Group,Youngfurt,Online Purchase,Visa,Yes
+74405fed-303d-4a21-a1cc-82a8daa2cd06,6210d59b-308c-49cd-bf41-043629bb5c8d,2024-07-11 09:45:21,1704.17,"Chavez, Hodges and Taylor",West Marvinfurt,In-Store Purchase,MasterCard,Yes
+c6292ea9-cfc7-46c6-8266-ca7880ea50ac,45ea3041-977a-46f1-8a86-35ec2aadd87b,2024-01-29 16:43:53,146.36,Morales-Campbell,Maysfort,Online Purchase,Visa,No
+0438dc3c-fd24-445e-80e5-0cb0897de4df,99022269-1c42-42ed-88e0-e539a256de27,2024-03-22 14:06:02,145.24,Bell-Morris,Matthewhaven,In-Store Purchase,Visa,No
+c9dc5fb2-4e3c-48df-95ae-26d9c97f4eea,3b23a452-608d-41ec-8605-b8247881dbce,2024-06-07 20:02:13,1725.02,Webster-Lowery,Georgemouth,Online Purchase,Visa,No
+edb36a20-abe8-4d0a-8d4d-647c54583cdd,0f093658-fdf5-49f9-b115-f1848bd24710,2024-08-10 14:11:18,813.51,"Crawford, Richardson and Terrell",South Elizabethside,ATM Withdrawal,Visa,Yes
+497a708e-f5ac-49ae-a1eb-c18268e4fdb4,80b8111c-180d-4808-aff7-911fbf0938bf,2024-06-30 13:48:21,1883.78,Poole-Smith,Port Jessica,In-Store Purchase,Amex,No
+b60dab71-7d1a-4819-a722-a97b06d422c2,ceeb96ef-23d6-4f48-b8f3-0fc82f31f136,2024-07-02 22:28:34,1143.65,"Adkins, Figueroa and Parker",West Alan,In-Store Purchase,Visa,No
+6fabcb41-3aea-4ea3-ae46-5fc3567fe5ef,be1ad2cb-d00d-4730-b49f-4c78215bd8e3,2023-12-15 02:42:34,1162.05,"Soto, Park and Kelly",Berryberg,In-Store Purchase,MasterCard,Yes
+ec88ceaa-4407-4bd3-8694-e575f56dac9d,986d5358-62f2-4e10-aed2-409573d30505,2024-03-06 23:16:03,89.09,Adams-Gutierrez,New Richard,ATM Withdrawal,MasterCard,Yes
+f12497c5-6535-443f-9d15-54aede4331a0,329e57ab-861d-4f44-8d8f-bda892948d4a,2024-06-12 05:00:38,173.15,Matthews-Joseph,New Harrytown,Online Purchase,Amex,No
+728f291c-993a-4a3e-8a42-b8e3c12f0d75,413afd1c-7027-435b-b740-a8abc57798ab,2024-04-26 07:53:03,1318.17,Morgan PLC,Brettville,Online Purchase,Amex,No
+f79dbc2f-376d-493c-8d35-e21f8baef67f,bb4303c3-ab1c-4295-905e-ea8b848bf1b4,2024-02-07 01:11:15,1134.8,Wiley-Crawford,Reesebury,Online Purchase,Amex,No
+f3574f2d-3fb9-479a-ac86-6e32ad9960d2,b4cca993-a01a-4b31-8476-9ef1c0d51b8c,2023-11-25 23:43:49,639.58,Collins Inc,New Brittany,Online Purchase,Discover,Yes
+9579f992-514d-491e-80a1-e900f3770211,a523ba71-fef3-4a15-b500-25c77c693ee0,2024-07-04 20:55:54,528.92,Lopez and Sons,Mauricefurt,ATM Withdrawal,MasterCard,No
+f4b34d24-de9b-46f0-a567-87c395595d66,ab3946ed-f417-4f27-b9dc-7ffc83eb929f,2023-12-17 21:37:35,1342.75,"Green, Sanchez and Miller",Port Andrew,In-Store Purchase,MasterCard,No
+9df64b2d-2da5-4efb-8304-a5027d7acafd,a61e9b62-207c-4a53-89a8-6fb5891a21be,2024-07-10 21:56:52,635.23,Buchanan Group,Johnborough,ATM Withdrawal,Visa,No
+364ec0ae-e15c-4359-8d8a-8ffd669b6db5,96dd568b-d4e9-4cb3-b5df-5e5ea66c01a0,2023-12-22 21:23:27,538.57,"Ramirez, Martinez and Vargas",Natalieshire,ATM Withdrawal,MasterCard,No
+acfc87f1-271e-40e9-a928-05fca25b5b59,4855a062-b9d8-4c69-8ea8-f70fe0594333,2024-05-18 04:40:08,270.45,Stephenson Group,West Michaelfurt,ATM Withdrawal,Discover,No
+c0a73406-3972-4f1f-a6e2-9a85936b52ce,7f04d7b4-122d-41eb-b616-024f726aff5b,2023-12-31 12:01:15,1294.55,Adams-Bush,Patrickstad,In-Store Purchase,Discover,Yes
+efba8b3d-d439-4f6f-ade3-a5c600d1775f,b34519d0-717f-4694-bff2-0f0bdc94c12f,2024-02-27 09:11:49,919.88,Torres Group,Lake Toddshire,ATM Withdrawal,Visa,No
+e7e7ddbf-e4f4-419a-a906-99f6fc2469a9,b133ff1c-d346-4335-92c2-e9cc1ce923c8,2023-12-07 09:11:45,1858.75,"Singh, Long and Miles",Michaelstad,ATM Withdrawal,MasterCard,Yes
+49d1dfaa-f42d-4648-9a57-969b126335df,3c7fff24-5991-486a-acbd-d2542b04c73b,2023-11-08 10:00:14,1872.11,"Arnold, Rogers and Cox",Trevinoport,ATM Withdrawal,MasterCard,No
+41a88d0b-42a0-4dd5-87dd-ed1e34dfc3d6,4e9ee730-ea13-4cf6-a86a-2b5de0cc4d22,2023-12-10 20:06:22,28.54,Villegas-Anderson,Christopherbury,ATM Withdrawal,Visa,Yes
+21b3a098-6a31-4935-bf59-fc93cef9e649,1a4ed253-1c1c-44de-9cb8-b17181075ade,2024-05-13 17:03:23,1246.11,Moses Inc,South Nancyfort,Online Purchase,Amex,Yes
+fbebfa9f-7491-44f3-84d9-9229b750b9a6,f35eb38a-4412-4f18-ad66-88625093ee83,2023-11-20 10:43:55,1130.36,Salas-Mason,Lake Chelseaburgh,Online Purchase,Amex,Yes
+8187ef44-c566-4a30-90d8-277b373dba89,1827e89f-87de-4350-aeae-28c22be0afd4,2023-12-02 18:40:50,208.96,Robinson Group,Johnmouth,ATM Withdrawal,MasterCard,Yes
+02573150-409e-4303-b3c8-9cecb2d627a4,85bc1fac-e89a-439c-897f-3e6b0ae8a51d,2024-06-02 06:07:56,1079.89,"Williams, Miller and Suarez",West Natasha,In-Store Purchase,MasterCard,No
+2d821a1a-64fd-41c5-a7ef-bbdcefb1c5b1,9814e2d7-56d5-469f-af02-afd7e328fc34,2024-03-19 22:30:25,1016.71,"Kane, Rodriguez and Williamson",Port Grace,In-Store Purchase,Visa,No
+347c6d52-d1e9-48c6-8a29-69a68febfa26,0d3ea71d-be82-4479-8bda-40127814dedb,2023-12-23 17:41:05,273.59,"Waters, Wall and Hansen",North Emily,Online Purchase,Discover,No
+c4d77971-61e3-4ed6-ae89-48a462f28399,dc553b91-8637-44a9-a886-7a4290e10a15,2024-05-05 08:51:41,704.53,Stanley LLC,East Timothyview,Online Purchase,Discover,No
+ad2bc7e4-7097-4d6e-9a5a-c4d6c6ec85e8,286901c4-0b71-4b0c-96ba-045b8bed6936,2023-08-25 10:31:11,146.89,"Marshall, Burch and Greene",West Christophermouth,ATM Withdrawal,Visa,No
+5558e59b-86bf-4cd3-a22f-087fc9438450,55fc7a69-fafe-42df-aa11-798b30348588,2024-07-25 21:56:50,496.13,Stephenson-Dixon,Port Joshua,In-Store Purchase,Visa,No
+c1342c79-d8d2-4746-854b-196a470004af,30dc0c0f-6aed-42a2-b4ea-381bb4b7080f,2023-12-08 05:55:25,577.12,Mueller LLC,Clarkburgh,Online Purchase,Discover,Yes
+d117f43f-b8d1-433a-9230-14c924d8eca9,21ebd875-5a4e-45e0-870f-81743bd62046,2024-07-09 23:38:44,881.99,White-Velazquez,Lake Tiffanymouth,Online Purchase,Visa,No
+654aca63-d3a8-45b1-9d22-25c50b851309,f3c81971-cc1f-45ab-a650-74e71377aa1f,2024-01-15 23:56:59,1091.0,Osborne-Schultz,North Shawnport,In-Store Purchase,Visa,Yes
+d664280c-8b8c-4f02-a387-08015f4db8b9,599b6339-e9e1-4ff5-a7ab-2222658e2f25,2024-01-21 14:22:57,612.01,"Baker, Nicholson and Nguyen",Shannonhaven,ATM Withdrawal,MasterCard,No
+a2114469-cd85-4042-8ad7-38a85ed34aad,2e18c9cc-e850-4592-a458-a22fe865f61b,2024-06-04 06:38:36,1967.87,Morales-Brown,Joshuastad,In-Store Purchase,MasterCard,Yes
+81b1bee9-619c-46ba-863a-28edde4427f4,7e30d91d-b56c-4d0c-b914-a8692a9e51c5,2024-02-25 21:47:04,1616.13,"Kelly, Blair and Stone",Washingtonton,In-Store Purchase,Visa,No
+ea075dd3-e753-4df5-a837-fc32c6b30e15,874a0389-2cbd-4bcb-bb9a-b85ec7c2dfe7,2024-05-10 11:05:10,1062.59,Lane LLC,Susanport,In-Store Purchase,Visa,Yes
+704647f5-b891-4331-893f-e463cd51e0b6,4b0a408c-8242-4bf4-bd51-4b1a030e612f,2024-07-07 10:07:24,1339.05,"Herrera, Martinez and Austin",Jamesshire,Online Purchase,MasterCard,Yes
+acdde26a-049c-4cbd-92c0-e4ae8a0ce7b0,84715b9e-22d7-4b1d-a6cc-dbe801415c50,2023-09-09 15:30:17,1113.66,Baker Ltd,North Adamstad,ATM Withdrawal,Visa,Yes
+e2c262c1-7760-4df4-9ac9-e0dce7dc3c86,bab4b3e6-e69b-4817-999b-93cabe6cea6a,2023-09-03 04:27:13,1864.19,Singleton-Hull,Ericahaven,In-Store Purchase,Amex,Yes
+055db802-62f9-4f8e-a94a-7dea2f68fa0c,38365d54-073f-4ccd-948a-015b1d477788,2023-11-22 10:56:30,216.14,"Thomas, Collins and Smith",Lauraburgh,In-Store Purchase,MasterCard,No
+0fe9be0b-40d7-4440-a706-9dca4b055480,5f4ebc0c-84fb-433e-a3a3-3cb04d36311a,2024-06-16 21:04:22,1757.47,"Reese, Anderson and Wright",Schmittmouth,In-Store Purchase,Visa,Yes
+da2dd2ee-4ca4-4bf4-b5bb-3c5a6fa94d3c,09922844-b50f-4ed3-8ac2-ed0d2e7b1370,2023-10-30 05:54:28,536.29,"Decker, Morrison and Decker",West Kimberlyton,ATM Withdrawal,Amex,Yes
+845bfce9-6d28-4cfc-adb8-2718b4eef3da,b2326bf6-79db-4d94-b5a3-27d30ab27065,2024-05-28 12:08:44,1780.53,Chavez Ltd,Kyleborough,ATM Withdrawal,MasterCard,Yes
+846ee378-b9ce-4f61-b1c7-e6b9b6828c65,8ad27288-2f84-4062-9fdb-43e9797c0887,2024-04-26 19:00:45,1487.41,Dalton-May,North Johnhaven,In-Store Purchase,Amex,No
+4761ecb1-d32c-4aa8-9c72-f68876c9520a,54eed3e8-143e-46bb-93db-47f7e547d1f1,2024-05-02 09:04:51,319.34,Lopez PLC,Dianefort,ATM Withdrawal,Discover,Yes
+617fa02a-def3-4bf8-9d0c-415c77c2ab7b,f91429b7-066d-4331-8efb-c436b14a4c7e,2024-01-04 20:51:21,570.69,Fox-Newman,South Jessicaville,In-Store Purchase,Discover,Yes
+4d31ca4c-4790-4cba-bf2a-e4be98ef425d,3f1c5c14-5f07-485c-98a2-dad9a86a72c3,2024-03-12 01:08:12,429.15,Brewer-Hill,Farmerfort,In-Store Purchase,Amex,Yes
+34dbb3ea-e451-4ed8-9398-6fbcb3390e0a,4a676db0-429f-4e21-add0-779082bd0e56,2023-10-30 05:42:09,692.33,Schneider-Oconnell,Hoffmanview,ATM Withdrawal,Discover,Yes
+e9a74c57-9729-40a3-a6b7-cf308afba3de,33813e92-6841-4b4a-b7e9-975feea34e7e,2023-12-01 14:16:49,1378.12,"Perez, Newman and Sheppard",Port Briannashire,In-Store Purchase,Discover,Yes
+57d66aee-b2e6-4fd3-83c5-c8aa1e46cff2,5b86498d-6524-4adf-ad51-620d69ca85ff,2023-09-26 05:57:45,1707.3,Gates-Reynolds,Jasonfurt,ATM Withdrawal,MasterCard,No
+189446d8-4d30-490c-b6a4-c89317e71595,cfaa3eb7-349b-48dc-b4c2-3318b1026bc5,2024-01-31 14:06:16,1015.76,"Bell, Oliver and Navarro",Port Robert,Online Purchase,Discover,Yes
+d9b39478-4ebf-4d40-9782-e1b304c26b93,faaffa1c-80de-493e-be66-8f2607778361,2024-07-15 01:52:15,509.73,"Hall, Martin and Lopez",Henrytown,In-Store Purchase,MasterCard,Yes
+e672770a-b4f3-4e1a-9ab9-6b135f9b3760,717fb138-7b74-47b2-bc76-1f7bd33867ee,2024-06-26 04:49:23,1817.24,Chandler-Simpson,Melodyberg,Online Purchase,Discover,No
+c5976e3a-5ba3-47cb-8c47-ef28a305499d,e1c70671-acd4-4cfb-b418-db33de7abce0,2024-07-13 13:24:34,111.09,Calhoun Group,Snyderhaven,Online Purchase,Visa,No
+95d218ea-bca8-4756-aa34-ed47fa7dbd57,f3e9d6c8-f26b-45b8-900b-c97981f5c36c,2024-05-19 10:21:02,1272.23,"Freeman, Wolf and Collins",West Richard,In-Store Purchase,Visa,No
+22d93c00-0c53-4a4c-a8f9-1b21664be8c2,1c18bce5-84e7-4d59-af90-16dd43768c4c,2024-07-05 22:20:46,1660.4,"Hall, Ramirez and Collins",North Lisachester,Online Purchase,Visa,No
+2dddbded-d48b-4e9e-be5c-2d8b1e811513,fb29bbbc-9902-40f4-82cd-f823522964b0,2024-01-10 07:23:40,97.73,"Ryan, Mercado and Davis",West Carolynland,ATM Withdrawal,Discover,No
+b8594fc5-f16a-453d-864c-7d72bec216f2,5f932d5e-940a-452e-86f9-dbdbe7f12cae,2024-07-21 17:19:40,673.78,Livingston Inc,Thompsonmouth,ATM Withdrawal,MasterCard,No
+be102e89-0c84-4fa5-b59b-35bdafc415c8,48d6638c-3711-40bb-bedf-b5eaa1e0d18e,2023-09-03 15:05:19,270.33,"Hopkins, Vega and Miller",New Marvin,Online Purchase,Amex,Yes
+55eb17d3-302b-493b-8ed2-0c1f2a5151e6,f79b78f4-2041-48e7-9999-7cd6e8638703,2024-02-17 18:11:25,1959.8,Montgomery and Sons,East Elizabethside,Online Purchase,Discover,Yes
+a41e0a53-c059-4427-95d3-1602df3e9a38,4e6438b0-083b-48bb-b5ad-909cf731d9bd,2024-06-03 07:00:24,331.55,"Tucker, Woodard and Garrison",East Tinaland,Online Purchase,Amex,No
+72ffc06b-e151-45ad-8dd5-8b5d83f1e2f1,ac9f5bcd-c37b-456c-bef2-c60921f34698,2023-12-26 17:03:47,889.25,Salinas Ltd,Lake Thomasstad,In-Store Purchase,Discover,No
+0e9e6134-ecaa-496f-b782-8a2aaafa291c,c2786354-7848-4bec-9eb8-1ea8ec498df0,2024-03-10 22:56:03,1414.28,Keith LLC,Cooperport,In-Store Purchase,Amex,No
+378d77f6-74bf-4e2b-8b55-0f9ab8e56d64,54e8848a-453e-4a12-a4d0-a98227adc3fe,2023-09-27 16:23:04,1126.2,"Scott, Watson and Boone",East Christina,In-Store Purchase,MasterCard,No
+d1435b77-8e53-4c97-98e7-8a587d87b854,3175b025-831b-4746-a205-3db81f3c3a65,2024-05-29 03:38:56,232.63,"Jones, Miles and Dyer",North Jennifer,In-Store Purchase,MasterCard,No
+04e44ed1-5628-49e6-b7cd-c77a792dd0e1,96d49b73-884e-4b28-9975-15968cdd2757,2023-09-23 22:18:45,1890.65,"Smith, Lang and Dyer",Isaacmouth,ATM Withdrawal,Discover,Yes
+4e5d3747-3ba0-4cbc-bb8d-a922556d83d0,1e9b5081-d357-4d88-8674-9bf4e4a05bf0,2024-05-02 15:19:29,1385.13,Barnes LLC,North Rachel,Online Purchase,Amex,No
+6a784d04-209a-44f1-99a1-b75d3fd30282,57ca636d-0414-4d9f-9334-e4cb3bf8c65e,2024-03-16 13:39:01,306.62,Barber Ltd,West Brendaville,In-Store Purchase,Discover,No
+069d9920-ef10-4ef6-a98c-379affd271da,5543e703-760d-4503-8c35-a74c0b0a57bf,2024-01-28 03:37:08,81.7,Wilkerson and Sons,Hillborough,In-Store Purchase,Discover,No
+0cabca65-c872-41a0-8b84-638bb6c0788b,0ddcd73b-b507-4cda-bb10-c7720016e476,2023-12-27 03:54:52,744.74,Nelson Inc,Phillipberg,In-Store Purchase,Amex,Yes
+1b4b03e8-b2e7-43a1-8951-5f530e5b2013,efd23e3c-b360-4c62-b42c-4e7d52572b29,2024-01-04 11:49:10,1109.52,Grimes and Sons,North Adrienne,Online Purchase,Discover,Yes
+6b300303-5330-420b-879b-6407a2a37c2e,31359e3c-9b83-4807-ae75-db7147587fc8,2024-01-01 13:23:57,865.28,Johnson Ltd,Brianborough,ATM Withdrawal,MasterCard,No
+d3a8f447-ef11-48c7-882d-bb84b4fa1267,abf9e162-93de-413d-8754-46ac8741b263,2023-10-15 17:16:24,93.24,Edwards and Sons,Myersfort,Online Purchase,MasterCard,No
+7d99ed0b-f181-429f-b1ab-f64e2de78740,23ddf98b-9524-41f7-b6d5-db6ff154edcf,2024-06-26 16:03:24,735.66,"Schmidt, Ellis and Coleman",Lake Shelbyburgh,In-Store Purchase,Amex,No
+7435e699-e882-499f-8c37-fdd9c74f723b,82bc9917-a54c-458e-853a-37ceb52dc7e9,2023-11-04 19:13:08,1866.85,Rhodes-Jacobs,Port Melvin,ATM Withdrawal,Visa,No
+0074048b-48fd-4d7d-9a8f-58418d430846,3b8a6b71-6954-4bc2-aaf9-e7e6f0bb3e06,2024-01-08 00:00:23,1944.67,Hernandez-Bailey,North Michael,ATM Withdrawal,Amex,Yes
+a5d2ca94-b675-42f5-9c40-9d9cae373d83,c1a38007-ab7f-4bfd-8ccb-19a1c3ce5c49,2024-07-13 07:30:21,89.39,Perez-Solomon,Edwardsfort,Online Purchase,Amex,No
+625c9916-57ec-42e5-a156-dc988eab499b,6bf9f87c-ec92-4434-a473-9adbfcba4318,2024-06-06 17:06:19,722.04,Klein and Sons,Ruizberg,In-Store Purchase,Visa,No
+71bb8b59-0a66-43a5-81b8-e59bf3cc3b0c,43bfa611-10a4-4bb6-983e-042acc37aff5,2024-06-19 13:59:23,1367.31,"Cruz, Larson and Davis",South Gabrielleshire,Online Purchase,MasterCard,No
+e7dce5fb-ae18-4659-b862-cc6f70a1109c,b20092ad-e5b4-4a3b-9680-456f62385838,2024-01-23 01:30:20,1337.2,Williams and Sons,East Laura,ATM Withdrawal,Visa,No
+647b63d1-5028-47a8-853e-79a58984edd0,abde8f47-7939-4781-824c-f2f02fab9760,2024-06-19 22:27:51,713.82,Sanders Group,Jessicaview,In-Store Purchase,MasterCard,No
+374165a9-18b1-47c7-95df-9c15674b1f6b,7ec9978e-a31d-4e86-91dd-f84d9883f4c8,2023-11-21 13:32:31,1124.17,"Davis, Mayer and Nguyen",South Chelseashire,ATM Withdrawal,MasterCard,Yes
+f6f7f62a-41f0-4013-86a6-b5ec6f6e614a,84d9ac5c-ebca-4a0a-afd6-684c3ed0d99f,2023-09-22 17:03:52,1750.68,Harrington and Sons,Lake Taraview,In-Store Purchase,MasterCard,No
+239d18bc-7965-4174-863b-6b45ddbc6b2a,e44ee36a-621f-431a-88b3-e2bea6d14852,2023-11-14 08:31:18,1947.94,"Walker, Campbell and Mcconnell",East William,ATM Withdrawal,MasterCard,Yes
+dd4c36d5-b9e2-4a88-b383-b45baeea9519,1cdbeefb-e493-46da-8058-8130a95cc4c5,2024-01-19 00:20:09,1501.46,Mcclure Inc,Loweburgh,Online Purchase,Discover,Yes
+3878d096-5dad-4a79-ac5c-7cf33cf34549,91a866f7-69ff-4121-90e4-367297dbac24,2024-07-26 17:49:52,1852.27,Jimenez-Bailey,Palmerbury,ATM Withdrawal,Discover,Yes
+4922942e-8dee-44c4-9832-c37f4eebc3af,28709821-4f2d-4bcb-8ec3-c5170eeab28c,2024-05-03 03:29:52,481.11,Patel-Howe,East Jonathanstad,In-Store Purchase,Discover,Yes
+ceb9f5ee-9954-4c9f-a855-e51ebd61db1a,dd5ecfe9-f3e3-4eb3-9e08-f4232bb2ddce,2024-02-11 02:55:16,333.38,Li-Duran,South Russellstad,Online Purchase,Amex,No
+7823ff60-4e6d-4814-ae6b-8e2379b5fa03,d841e36e-e36e-4007-a713-fe57d8420c8d,2023-12-06 01:20:35,1601.78,Thomas LLC,North Ethanport,ATM Withdrawal,Visa,Yes
+1042d765-5dd4-4de9-97e2-e5de3e3fc424,36dcdbdd-7636-4006-be94-2428fa66f82d,2023-09-02 10:17:00,362.33,"Serrano, Tran and Vargas",Joemouth,In-Store Purchase,Amex,No
+ac5385b4-67bf-411a-b042-aef52734446e,086512d9-5c41-41a9-896c-063625e15d9f,2023-08-30 10:00:38,830.47,White Group,East Markbury,In-Store Purchase,Visa,No
+a9d0360a-1ac0-4d07-8bc8-2a7ec4fc385c,98f4d681-79c4-49c5-84b2-6d06d93fa4db,2024-02-15 09:57:03,366.93,Berry-Rodriguez,Rogersshire,Online Purchase,MasterCard,No
+16b1c0cd-7975-4339-ad88-8a4fb33f3e76,f56e8647-557b-4285-b7d2-dced21777e5c,2024-02-28 00:32:58,1849.73,Flores-Phillips,Sherrybury,In-Store Purchase,MasterCard,Yes
+93895fbc-dffa-4120-827f-00341d4b4433,53b4e2b2-75ba-4ab0-82f6-60720a128639,2024-07-06 13:22:55,1566.95,Lewis and Sons,North Brittanyton,ATM Withdrawal,Visa,Yes
+2ec3c22f-2406-49f2-be67-c5bf05887f0b,b6d920f3-5b92-441d-bc0f-78d5f5f90a8d,2023-12-03 15:41:00,829.31,"Schmidt, Walker and Santana",Matthewberg,Online Purchase,Amex,No
+6e959570-7f04-4f93-bf29-afce789e15ae,784a55dc-fe38-423e-9119-30f8647f0114,2024-04-13 02:00:01,1343.12,Freeman-Lopez,Douglasland,Online Purchase,MasterCard,Yes
+6192ffba-03e6-486d-8acf-b040cb8f6d2b,cdd8d95b-95fd-4f5f-86e2-4bd99c33f326,2024-05-12 01:53:50,1472.76,"Sharp, Long and Stewart",Port Steven,Online Purchase,Visa,No
+c7ef4846-f8dc-4ad0-8e46-d11e7eec7445,af675ebe-f994-4273-a98d-14eb202ba133,2024-04-17 10:47:21,503.85,"Allen, Dean and Cortez",West Brian,ATM Withdrawal,Discover,No
+d09f60cf-a5b8-46b9-9e45-a6ab6252e9d8,449bf835-0689-449c-a9e4-8509c1f8bce0,2024-01-22 02:01:29,326.8,"Butler, Vincent and Brown",North Andrew,ATM Withdrawal,MasterCard,No
+94561ee3-7cf5-47c3-9aa6-35eaafeb334b,9ead9083-c961-42a9-96a7-3ba1c1f9597b,2024-02-03 03:22:16,1405.54,"Odonnell, Wood and Thomas",Josephtown,Online Purchase,Discover,Yes
+8046afcd-fc77-4c75-aac2-579eb0ba0c29,0a08d4cc-29dc-4661-aeab-772a3b7ef215,2024-07-15 01:26:02,771.26,"Rogers, Mooney and Torres",Robinsonberg,In-Store Purchase,MasterCard,Yes
+74466aa0-9ed4-4684-a888-38dda971e230,ecee6bc1-fe75-41c1-b73b-325accd7bb1a,2024-03-09 18:19:40,87.06,"Mclaughlin, Williamson and Dixon",West Katiechester,Online Purchase,Discover,No
+8a3776c6-7c38-4691-8d15-ed19eb0f4a19,9f4de998-45fe-4860-adc9-efa31c41b2d2,2024-07-06 21:19:27,946.67,Mckinney Inc,Christinechester,Online Purchase,MasterCard,Yes
+de644cfd-f8e4-446f-b84c-293fc01c1a25,fe06ff41-cbd4-4c12-ba92-98aea5ff41e0,2024-06-09 03:31:03,407.15,Brown PLC,Michaelport,ATM Withdrawal,Discover,Yes
+609c9b18-423c-4d3c-947a-f78f527f4cb2,d3a90612-440c-4a0d-98b0-8fcea7ec68d3,2023-11-11 14:24:06,1837.72,Clements-Ellis,East Lori,ATM Withdrawal,Visa,Yes
+a079060b-0fdb-4ff5-b74e-abb540049987,82c10caf-db3a-40a2-9c8e-548c71438074,2024-07-02 12:17:11,705.82,"Carlson, Mills and Banks",Steinview,Online Purchase,MasterCard,No
+4b6353aa-6ffc-45b7-9ba8-9a776e038ffa,ecdefa77-914b-4006-825f-c85337aa2886,2023-09-02 23:04:17,1642.87,Christensen LLC,East Rachelchester,Online Purchase,Amex,No
+b6559f69-c287-4c27-ba3f-40e5a939c027,ef96696f-c10c-47f3-8a05-03433aba22fb,2023-09-13 01:41:26,1743.93,"Zuniga, Rodriguez and Lam",Lake Anthony,Online Purchase,Amex,Yes
+a0b995e0-4e45-4b3f-98df-e8d6a675d2bd,55337b5b-36f4-403a-8e87-a2642cde0d55,2023-12-03 08:06:37,453.62,Baker-James,Brandonport,ATM Withdrawal,Amex,No
+d6671d72-1d7b-449e-beb5-b883ef78b6a6,d37ea7a9-1958-4410-b95a-7fec8606c4e9,2024-02-19 10:20:28,1323.47,"Smith, Joseph and Gregory",Port Kenneth,ATM Withdrawal,Amex,Yes
+843bf894-df62-484e-83de-37ac3d15e34c,cf9981b5-5815-41f6-b6d9-55a399a02769,2024-08-13 05:35:15,802.95,Simmons-Phillips,Robertport,In-Store Purchase,Discover,Yes
+051efad1-23c4-4583-aa84-ff1abb74e730,ef22d6a2-211c-4bbc-bd43-cd207576496e,2023-09-23 18:02:07,564.42,Rodriguez-Byrd,Ortizhaven,In-Store Purchase,MasterCard,Yes
+0328a62a-c208-4150-a49d-e5e2f29dbd42,7784eed2-e4f9-4a91-8162-43d4b2ba9e73,2023-12-26 23:50:34,148.15,"Ayala, Dyer and Griffin",West Aprilstad,Online Purchase,Visa,Yes
+c81452fd-6f12-4196-b37c-78fcfcf123d1,91fc0fcd-84b8-4ad1-96fd-448cf659a032,2024-06-16 17:57:26,1548.92,Little Ltd,New Teresatown,ATM Withdrawal,Visa,Yes
+c6f56ab1-c3cc-42aa-ad17-890f4c6a7006,b4a4d177-5d33-4fd0-8761-01bea35562bb,2024-05-27 11:19:37,708.78,Weaver PLC,North Michael,Online Purchase,Amex,Yes
+6032eac5-f270-4736-8a8a-00ec546fd080,17c677d5-1693-4d6a-a1c3-f8ceb25c22a2,2024-01-08 03:18:06,1023.72,Thomas Group,East Lauraburgh,In-Store Purchase,Amex,No
+620b9abd-2dea-44d7-b48e-4809700a9d71,bc8d8faf-3daa-42db-be2d-99d07951ae71,2024-07-02 00:45:56,1362.24,"Butler, Chen and Berger",Port Ashley,In-Store Purchase,MasterCard,No
+acd7147d-2cef-443f-a11a-03fec057af32,c9c6a7d6-9358-42c3-a2a4-df4558600b67,2024-02-28 00:15:14,1688.89,Black LLC,Wattsbury,In-Store Purchase,Amex,No
+05f39db6-1763-4bba-8e8a-6d799fd7b69e,8c220b4e-4600-43a6-b753-ad905dfefd38,2023-09-07 13:30:27,668.99,"Davies, Anderson and Wright",Browntown,In-Store Purchase,Discover,No
+85ea228e-5edf-4d41-af00-c58a63703289,64cbbc77-084b-4d11-a08e-83fac0860551,2024-06-13 23:50:43,64.93,"Young, Simon and Flores",North Lisa,Online Purchase,Amex,No
+234b1be3-c167-4827-a2b3-7cb1a3c8b654,ca53a010-d9b8-4aa7-be7e-1428ca04e26f,2023-09-02 15:01:43,1755.31,Shea-Castro,Meyerville,ATM Withdrawal,Visa,Yes
+fd092283-6f95-4751-9003-75308fc92598,0e089891-65ce-4ec0-a709-85039a7a79f9,2024-05-23 16:57:57,529.82,Estrada-Gonzalez,Davidbury,ATM Withdrawal,MasterCard,No
+b463ce1e-9145-4e15-8bc9-c4bfcde16402,e6e00da4-b8d2-4919-b38a-7c601eabf0ed,2024-02-04 15:00:18,1165.37,"Jones, Chandler and Warren",North Kimberlyside,Online Purchase,Amex,No
+f931701d-5832-4aa1-a95e-d9812dc88bec,a60ea0ce-4162-42b9-89d3-8b2b4132b969,2024-07-17 14:47:07,1967.27,Edwards-Francis,Bellchester,In-Store Purchase,MasterCard,No
+ef6c9bb9-4b8e-416e-ab3a-3f7f2c213c39,4fbb09f6-af63-4a5e-b978-55aa00ae33a1,2024-06-13 09:43:53,86.13,"Harper, Jones and Johnson",Lake Douglaschester,Online Purchase,Visa,No
+106b1987-3e63-4b9f-be10-39b0faf105c1,0ebd7277-2538-40a2-a168-2e8128ecb3ba,2024-02-21 04:07:59,1197.18,Young-Murray,West Brandon,Online Purchase,MasterCard,Yes
+5379d4a0-1238-4461-a226-07c2773e34f4,97b79ce6-9c83-4d6e-b893-2ef3b90f6b76,2024-07-25 13:42:17,697.92,Green-Carter,Port Brian,In-Store Purchase,Discover,No
+f29c8fd4-a742-4318-aebd-a766a4d55028,8ecae20f-885c-43b0-ac2c-d3e921a0824c,2023-11-07 22:33:56,1574.99,"Shaffer, Bradley and Henderson",North Mitchell,ATM Withdrawal,MasterCard,No
+30c722b9-902c-4afa-b362-a14471d52bd9,89063940-cccd-455a-bf38-e84c3fee9676,2024-07-30 10:12:54,878.42,"Hurley, Shannon and Barnes",Scottville,ATM Withdrawal,Amex,No
+f5eea107-5399-4eac-897c-054b638841cd,dc7fa18e-3f44-406d-8bfa-29c30a9e2ff1,2023-11-04 19:11:38,1968.63,Herrera-Roberts,North Mark,Online Purchase,Amex,Yes
